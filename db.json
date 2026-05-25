@@ -1,0 +1,100 @@
+{
+  "tiles": [
+    {
+      "id": "tile_001",
+      "title": "Ceramic Blue Tile",
+      "description": "Premium ceramic tile with blue glaze finish",
+      "image": "/images/tiles/tile_001.jpg",
+      "category": "ceramic",
+      "price": 45.99,
+      "currency": "USD",
+      "dimensions": "60x60 cm",
+      "material": "Ceramic",
+      "inStock": true
+    },
+    {
+      "id": "tile_002",
+      "title": "Marble White Tile",
+      "description": "Elegant marble-finish porcelain tile for modern interiors",
+      "image": "/images/tiles/tile_002.jpg",
+      "category": "porcelain",
+      "price": 59.99,
+      "currency": "USD",
+      "dimensions": "80x80 cm",
+      "material": "Porcelain",
+      "inStock": true
+    },
+    {
+      "id": "tile_003",
+      "title": "Rustic Wooden Tile",
+      "description": "Wood-look ceramic tile with a natural rustic finish",
+      "image": "/images/tiles/tile_003.jpg",
+      "category": "ceramic",
+      "price": 39.99,
+      "currency": "USD",
+      "dimensions": "20x120 cm",
+      "material": "Ceramic",
+      "inStock": false
+    },
+    {
+      "id": "tile_004",
+      "title": "Glossy Black Tile",
+      "description": "Premium glossy black tile for luxurious spaces",
+      "image": "/images/tiles/tile_004.jpg",
+      "category": "granite",
+      "price": 69.99,
+      "currency": "USD",
+      "dimensions": "60x60 cm",
+      "material": "Granite",
+      "inStock": true
+    },
+    {
+      "id": "tile_005",
+      "title": "Mosaic Pattern Tile",
+      "description": "Decorative mosaic tile ideal for kitchen and bathroom walls",
+      "image": "/images/tiles/tile_005.jpg",
+      "category": "mosaic",
+      "price": 49.99,
+      "currency": "USD",
+      "dimensions": "30x30 cm",
+      "material": "Glass",
+      "inStock": true
+    },
+    {
+      "id": "tile_006",
+      "title": "Stone Grey Tile",
+      "description": "Natural stone-look tile with a smooth matte finish",
+      "image": "/images/tiles/tile_006.jpg",
+      "category": "stone",
+      "price": 54.99,
+      "currency": "USD",
+      "dimensions": "60x120 cm",
+      "material": "Stone",
+      "inStock": true
+    },
+    {
+      "id": "tile_007",
+      "title": "Beige Floor Tile",
+      "description": "Durable beige floor tile suitable for living spaces",
+      "image": "/images/tiles/tile_007.jpg",
+      "category": "ceramic",
+      "price": 42.99,
+      "currency": "USD",
+      "dimensions": "50x50 cm",
+      "material": "Ceramic",
+      "inStock": false
+    },
+    {
+      "id": "tile_008",
+      "title": "Luxury Gold Vein Tile",
+      "description": "Premium designer tile with elegant gold vein detailing",
+      "image": "/images/tiles/tile_008.jpg",
+      "category": "porcelain",
+      "price": 79.99,
+      "currency": "USD",
+      "dimensions": "120x120 cm",
+      "material": "Porcelain",
+      "inStock": true
+    }
+  ]
+}
