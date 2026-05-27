@@ -1,7 +1,7 @@
 {
   "tiles": [
     {
-      "id": "tile_001",
+      "id": "01",
       "title": "Ceramic Blue Tile",
       "description": "Premium ceramic tile with blue glaze finish",
       "image": "https://i.ibb.co/xqkbR3yk/Tilex-Ceramic-Blue-Tiles.jpg",
@@ -13,7 +13,7 @@
       "inStock": true
     },
     {
-      "id": "tile_002",
+      "id": "02",
       "title": "Marble White Tile",
       "description": "Elegant marble-finish porcelain tile for modern interiors",
       "image": "https://i.ibb.co/C579fCJy/Tiles-Marble-White-Tiles.jpg",
@@ -25,7 +25,7 @@
       "inStock": true
     },
     {
-      "id": "tile_003",
+      "id": "03",
       "title": "Rustic Wooden Tile",
       "description": "Wood-look ceramic tile with a natural rustic finish",
       "image": "https://i.ibb.co/jk8cnCMZ/Tiles-Rustic-Wooden-Tiles.jpg",
@@ -37,7 +37,7 @@
       "inStock": false
     },
     {
-      "id": "tile_004",
+      "id": "04",
       "title": "Glossy Black Tile",
       "description": "Premium glossy black tile for luxurious spaces",
       "image": "https://i.ibb.co/qLkPbH8Q/Tilex-Glossy-Black-Tiles.jpg",
@@ -49,7 +49,7 @@
       "inStock": true
     },
     {
-      "id": "tile_005",
+      "id": "05",
       "title": "Mosaic Pattern Tile",
       "description": "Decorative mosaic tile ideal for kitchen and bathroom walls",
       "image": "https://i.ibb.co/wZpH1wHV/Tiles-Mosaic-Pattern-Tile.jpg",
@@ -61,7 +61,7 @@
       "inStock": true
     },
     {
-      "id": "tile_006",
+      "id": "06",
       "title": "Stone Grey Tile",
       "description": "Natural stone-look tile with a smooth matte finish",
       "image": "https://i.ibb.co/QvL3mBBF/Tiles-Stone-Grey-Tile.jpg",
@@ -73,7 +73,7 @@
       "inStock": true
     },
     {
-      "id": "tile_007",
+      "id": "07",
       "title": "Beige Floor Tile",
       "description": "Durable beige floor tile suitable for living spaces",
       "image": "https://i.ibb.co/NnfJkR02/Tiles-Beige-Floor-Tile.jpg",
@@ -85,7 +85,7 @@
       "inStock": false
     },
     {
-      "id": "tile_008",
+      "id": "08",
       "title": "Luxury Gold Vein Tile",
       "description": "Premium designer tile with elegant gold vein detailing",
       "image": "https://i.ibb.co/0pTnCbm0/Tiles-Luxury-Gold-Vein-Tile.jpg",
